@@ -2,13 +2,13 @@
 
 **Database Developer | Cybersecurity Professional | Founder and Product Builder**
 
-I am a technical professional with experience across database development, cybersecurity, cloud technologies, and applied AI. My background includes professional SQL, ETL, and MSBI experience supporting Ernst & Young as a contractor, combined with hands-on technology product development.
+I am a technical professional with experience across database development, cybersecurity, and applied AI. My background includes professional SQL, SSIS-based ETL, and Alteryx experience supporting Ernst & Young as a contractor, combined with hands-on product development and academic cloud labs using AWS and Microsoft Azure.
 
 ## Core Areas
 
-- **Database Development:** SQL, T-SQL, ETL, SSIS, MSBI, data validation, reporting, and troubleshooting
+- **Database Development:** SQL, T-SQL, SSIS, ETL, Alteryx, data validation, and troubleshooting
 - **Cybersecurity and IT:** Networking, access control, security fundamentals, secure system design, and technical troubleshooting
-- **Cloud and Development:** AWS, Azure, Git, GitHub, and modern application development
+- **Cloud and Development:** Hands-on AWS and Microsoft Azure labs, Git, GitHub, and modern application development
 - **Applied AI:** AI-enabled workflows, automation, and responsible system integration
 
 ## Current Work
