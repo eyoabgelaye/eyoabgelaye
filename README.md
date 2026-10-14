@@ -16,7 +16,7 @@ Recent work includes:
 - An AI Front Desk intake workspace with location-specific context and safeguards for unsaved input.
 - Database regression tests, migration verification, and responsive interfaces.
 
-The application source remains private. AI assistance is an active area of development; I distinguish implemented workflows from planned model integrations.
+The application is under active development, with a focus on permission-aware assistance and responsible automation. Source code remains private.
 
 ## Skills
 
